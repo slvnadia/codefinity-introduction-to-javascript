@@ -1,0 +1,13 @@
+function getFinalStatusMessage() {
+  let statusMessage = "Downloading...";
+
+  console.log("Status:", statusMessage);
+
+  statusMessage = "Download Complete!";
+
+  console.log("Status:", statusMessage);
+
+  return statusMessage;
+}
+
+getFinalStatusMessage()
