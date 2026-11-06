@@ -1,0 +1,9 @@
+function getCarSpeed() {
+  // Write your code below this line
+
+  return 100/5;
+
+  // Write your code above this line
+}
+
+console.log(getCarSpeed());
