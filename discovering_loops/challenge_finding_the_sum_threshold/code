@@ -1,0 +1,19 @@
+function findSumThreshold() {
+  let sum = 0;
+  let count = 0;
+  let limit = 15;
+
+  // Write your code below this line
+    while (sum <= limit){
+        count++;
+        sum += count;
+    }
+
+
+  // Write your code above this line
+
+  return count;
+}
+
+// Testing
+console.log(findSumThreshold());
