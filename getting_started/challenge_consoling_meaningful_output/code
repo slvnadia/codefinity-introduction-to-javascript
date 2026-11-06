@@ -1,0 +1,10 @@
+function printTrapeziumArea() {
+  // Write your code below this line
+  area = (13+21) * 10/2; 
+  console.log("The area of a trapezium is equal to", area,  "units.");
+    
+
+  // Write your code above this line
+}
+
+printTrapeziumArea()
