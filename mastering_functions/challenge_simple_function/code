@@ -1,0 +1,8 @@
+// Write your function below this line
+function messageFunc(){
+    console.log("This is a message from the function")
+}
+
+
+// Testing
+messageFunc();
