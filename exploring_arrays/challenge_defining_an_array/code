@@ -1,0 +1,5 @@
+// Write your code below this line
+favoriteFoods = ["Pizza", "Sushi", "Burger"]
+
+// Testing
+console.log(favoriteFoods);
